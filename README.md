@@ -1,2 +1,2 @@
 # calculator-app
-A responsive animated calculator web app with particle effects and interactive UI built using HTML, CSS, and JavaScript.
+A modern calculator application with a responsive dark UI, built using HTML, CSS, and JavaScript. It supports basic arithmetic operations with a clean and user-friendly design.
